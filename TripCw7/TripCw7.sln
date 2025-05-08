@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripCw7", "TripCw7\TripCw7.csproj", "{EC7765C5-8E1F-4B6D-9BFB-E4FD1999AD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7765C5-8E1F-4B6D-9BFB-E4FD1999AD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7765C5-8E1F-4B6D-9BFB-E4FD1999AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7765C5-8E1F-4B6D-9BFB-E4FD1999AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7765C5-8E1F-4B6D-9BFB-E4FD1999AD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
